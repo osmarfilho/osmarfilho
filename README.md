@@ -43,12 +43,3 @@
 <img src="https://raw.githubusercontent.com/osmarfilho/osmarfilho/output/snake.svg" alt="Snake animation" />
 
 ###
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/osmarfilho/osmarfilho/output/snake.svg" alt="Snake animation" />
-
-###
