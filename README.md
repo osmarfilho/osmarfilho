@@ -1,5 +1,8 @@
 <h2 align="left">Prazer 👋! Me chamo Osmar Filho e Seja Bem Vindo ao meu perfil!</h2>
 
+- 🔭 Hoje estou cursando o curso Análise e Desenvolvimento de Sistemas na UNIFIP
+- ⚡ Focado no front-end
+
 ###
 
 <div align="center">
@@ -35,11 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/osmarfilho/osmarfilho/output/snake.svg" alt="Snake animation" />
 
 ###
