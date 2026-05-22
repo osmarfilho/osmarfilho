@@ -1,7 +1,7 @@
 <h2 align="left">Prazer 👋! Me chamo Osmar Filho e Seja Bem Vindo ao meu perfil!</h2>
 
 - 🔭 Hoje estou cursando o curso Análise e Desenvolvimento de Sistemas na UNIFIP
-- ⚡ Focado no front-end
+- ⚡ com foco em desenvolvimento de software e aplicações web modernas.
 
 ###
 
