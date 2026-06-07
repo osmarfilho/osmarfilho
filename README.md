@@ -48,8 +48,8 @@ Desenvolvedor Full Stack, desenvolvimento de software e aplicações web moderna
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filhoosmar18&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhoosmar18&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmarfilho&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarfilho&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
