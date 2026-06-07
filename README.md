@@ -5,7 +5,7 @@
 
 ###
 
-![Osmar GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Osmar GitHub stats](https://github-readme-stats.vercel.app/api?username=filhoosmar18&show_icons=true&theme=radical)
 
 ###
 
